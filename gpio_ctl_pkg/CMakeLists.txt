@@ -45,7 +45,7 @@ link_directories(/usr/local/lib)
 target_link_libraries(gpio_ctl_node gpio_ctl lgpio)
 
 install(TARGETS
-  gpio_ctl
+  gpio_ctl_node
   DESTINATION lib/${PROJECT_NAME}
 )
 
