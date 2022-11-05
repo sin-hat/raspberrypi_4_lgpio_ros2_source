@@ -1,5 +1,5 @@
 # raspberrypi_4_lgpio_ros2_source
-This software is for RaspberryPI 4, Ubuntu22.04, LGPIO, and ros2(humble)
+This softwares are for RaspberryPI 4, Ubuntu22.04, LGPIO, and ros2(humble).
 
 ## Setup RaspberryPI 4
 Please install Ubuntu 22.04.  
